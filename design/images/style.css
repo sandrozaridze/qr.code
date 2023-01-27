@@ -1,0 +1,50 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: 0;
+
+}
+
+.wrapper{
+    height: 497px;
+    width: 320px;
+    border-radius: 20px;
+     background-color: #171717    ;
+   
+}
+
+.poto{
+    height: 288px;
+width: 288px;
+border-radius: 10px;
+color: #82FFA5;
+margin-top: 16px;
+margin-left: 16px;
+margin-right: 16px;
+}
+
+.impscan{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+
+
+.improve{
+    height: 56px;
+    width: 261px;
+    border-radius: nullpx;
+    color: #FFFFFF;
+   
+
+}
+
+.scan{
+    height: 57px;
+width: 256px;
+border-radius: nullpx;
+color: #CDCDCD;
+margin-bottom: 40px;
+margin-left: 32px;
+}
